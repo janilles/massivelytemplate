@@ -82,25 +82,52 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<section>
-							<form method="post" action="mailto:jan@themusicshed.org" enctype="text/plain">
-								<div class="field">
-									<label for="name">Name</label>
-									<input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="email" name="email" id="email" />
-								</div>
-								<div class="field">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" rows="3"></textarea>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-						</section>
+	
+									<h2>Form</h2>
+
+									<form method="post" action="mailto:jan@themusicshed.org" class="alt">
+										<div class="row uniform">
+											<div class="6u 12u$(xsmall)">
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+											</div>
+											<div class="6u$ 12u$(xsmall)">
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+											</div>
+											<!-- Break -->
+											<div class="12u$">
+												<div class="select-wrapper">
+													<select name="demo-category" id="demo-category">
+														<option value="">What's your message about?</option>
+														<option value="1">Donating an instrument</option>
+														<option value="1">Requesting an instrument</option>
+														<option value="1">Helping to build the shed</option>
+														<option value="1">Just a question</option>
+													</select>
+												</div>
+											</div>
+											<!-- Break -->
+											<div class="6u 12u$(small)">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="6u$ 12u$(small)">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">I am a human</label>
+											</div>
+											<!-- Break -->
+											<div class="12u$">
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+											<!-- Break -->
+											<div class="12u$">
+												<ul class="actions">
+													<li><input type="submit" value="Send Message" class="special" /></li>
+													<li><input type="reset" value="Reset" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+
 					</footer>
 
 				<!-- Copyright -->
