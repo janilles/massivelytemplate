@@ -1,6 +1,6 @@
-This is a website for the London-based non-profit project The Shed, which takes kindly donated muisical instruments – old or new, proudly used or painfully neglected – and put them into the hands of musicians and songwriters whose passion and potential are limited only by the fact that they don’t have good instruments of their own.
+This is website repository for the London-based non-profit project The Shed, which takes kindly donated muisical instruments – old or new, proudly used or painfully neglected – and puts them into the hands of musicians and songwriters whose passion and potential are limited only by the fact that they don’t have good instruments of their own.
 
-If you have any ideas or tips for improvement of the website - or the project! - please do get in touch.
+If you have any ideas or tips for improvement of the website - or the project - please do get in touch.
 
 Credits:
 
