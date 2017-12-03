@@ -5,8 +5,10 @@ If you have any ideas or tips for improvement of the website - or the project - 
 Credits:
 
 	Web template:
-		Massively by HTML5 UP
-		html5up.net | @ajlkn
+		Massively by HTML5 UP (html5up.net | @ajlkn)
+	
+	Background image:
+		Photo from unsplash.com (edited by Nathan)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
